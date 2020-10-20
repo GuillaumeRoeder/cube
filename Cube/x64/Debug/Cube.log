@@ -1,0 +1,10 @@
+﻿  main.cpp
+G:\stock\projets\en cours\Cube\Cube\Cube\main.cpp(77,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\stock\projets\en cours\Cube\Cube\Cube\main.cpp(77,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+G:\stock\projets\en cours\Cube\Cube\Cube\main.cpp(102,49): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+G:\stock\projets\en cours\Cube\Cube\Cube\main.cpp(102,50): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\stock\projets\en cours\Cube\Cube\Cube\main.cpp(103,50): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+G:\stock\projets\en cours\Cube\Cube\Cube\main.cpp(103,51): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+G:\stock\projets\en cours\Cube\Cube\Cube\main.cpp(172,37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+G:\stock\projets\en cours\Cube\Cube\Cube\main.cpp(173,38): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Cube.vcxproj -> G:\stock\projets\en cours\Cube\Cube\x64\Debug\Cube.exe
